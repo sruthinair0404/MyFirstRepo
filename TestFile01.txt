@@ -1,1 +1,2 @@
 This is a test file that I am trying to add to git.
+I have tried to modify this file.
